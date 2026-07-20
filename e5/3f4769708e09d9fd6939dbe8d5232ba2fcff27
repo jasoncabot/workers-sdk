@@ -1,0 +1,19 @@
+packages/create-cloudflare/src/git.ts
+  s_9a56b1bcc126ba::t_bf9c493c617f2d 90-100,108,110
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "e53f4769708e09d9fd6939dbe8d5232ba2fcff27",
+  "prompts": {},
+  "sessions": {
+    "s_9a56b1bcc126ba": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_07ffe0ebfffeHAakMVMQZSvZzQ",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Jason Cabot <jcabot@cloudflare.com>"
+    }
+  }
+}
