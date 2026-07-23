@@ -1,0 +1,19 @@
+packages/create-cloudflare/src/__tests__/git.test.ts
+  s_05c84a9fe8d1d9::t_7fec77a37213ec 332-335,339-342
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "a5528116a5db276178ba0889e3530bf661d000aa",
+  "prompts": {},
+  "sessions": {
+    "s_05c84a9fe8d1d9": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0707d3185ffe8j8DGTl8wz4UzV",
+        "model": "@cf/moonshotai/kimi-k2.6"
+      },
+      "human_author": "Jason Cabot <jcabot@cloudflare.com>"
+    }
+  }
+}
