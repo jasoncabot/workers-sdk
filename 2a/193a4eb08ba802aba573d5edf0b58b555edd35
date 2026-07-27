@@ -1,0 +1,27 @@
+packages/wrangler/src/cfetch/index.ts
+  s_5172cf7ebecdda::t_1e431baa2954f9 112-121,130,159-168,185
+packages/workers-utils/tests/cfetch-utils.test.ts
+  s_5172cf7ebecdda::t_dfdddebda8f0c7 2-8,66-165
+packages/wrangler/src/cfetch/internal.ts
+  s_5172cf7ebecdda::t_56478a1856739f 130-134
+packages/wrangler/src/__tests__/cfetch-internal.test.ts
+  s_5172cf7ebecdda::t_29bd176a4a7d20 9,11,256-327
+packages/workers-utils/src/parse.ts
+  s_5172cf7ebecdda::t_c30c397ca97dcb 64-71
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "2a193a4eb08ba802aba573d5edf0b58b555edd35",
+  "prompts": {},
+  "sessions": {
+    "s_5172cf7ebecdda": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_05cf5cc53ffezxp4P10sWnrc8I",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Jason Cabot <jcabot@cloudflare.com>"
+    }
+  }
+}
