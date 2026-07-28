@@ -1,0 +1,21 @@
+packages/wrangler/src/__tests__/cfetch-internal.test.ts
+  s_5172cf7ebecdda::t_29bd176a4a7d20 290
+packages/workers-utils/tests/cfetch-utils.test.ts
+  s_5172cf7ebecdda::t_dfdddebda8f0c7 74-76
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "d413b25ceeab0b5db6e98ed0af6a8f1d27f0c83c",
+  "prompts": {},
+  "sessions": {
+    "s_5172cf7ebecdda": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_05cf5cc53ffezxp4P10sWnrc8I",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Jason Cabot <jcabot@cloudflare.com>"
+    }
+  }
+}
